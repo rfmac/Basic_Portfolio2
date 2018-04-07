@@ -1,0 +1,94 @@
+h1 {
+    background-color: #4aaaa5;
+}
+
+a {
+    float: right;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+img.firstline1 {
+    float: left;
+    
+}
+
+#rpg {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+img.firstline{
+    float: left;
+}
+
+#hangman {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+img.secondlineclear {
+    
+    clear: both;
+}
+
+#trivia {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+img.secondline {
+    
+    float: left;
+}
+
+#riw {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+
+
+#thirdline {
+    clear: left;
+}
+
+
+#rps {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+}
